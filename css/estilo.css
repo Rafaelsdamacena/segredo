@@ -10,13 +10,30 @@ nav h1{
 
 
 main {
-    max-width: 1400px;
+
     display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin-top: 8%;
 }
 
-.container{
-    margin: 10%
+.esquerda{
+    margin-right: 5%;
+    justify-ce
+    
 }
+
+.direita{
+    margin-right:5%;
+    
+}
+
+footer{
+    text-align:center;
+}
+
+
+
 
 
 
