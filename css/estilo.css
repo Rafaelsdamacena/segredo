@@ -8,32 +8,36 @@ nav h1{
     margin-top: 3%;
 }
 
-/*
 main {
-
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-start;
-    margin-top: 8%;
+    margin: 5% 10%;
 }
 
-.esquerda{
-    margin-right: 5%;
-    justify-ce
-    
+.instrucoes {
+    margin-bottom: 3%;
+    text-align: center;
 }
 
-.direita{
-    margin-right:5%;
-    
+.texto{
+    margin-bottom: 3%;
 }
 
-footer{
-    text-align:center;
+.texto .entrada{
+    margin-bottom: 3%;
 }
 
-*/
+.botoes{
+    margin-top: 2%;
+}
 
+.botao{
+    margin-top: 2%;
+}
 
+.links{
 
+}
+
+.footer{
+    text-align: center;
+}
 
