@@ -1,8 +1,23 @@
 .navbar{
     background-color: #172026;
-    
+    padding: 15px 20px;
+    display: flex;
+    justify-content: center;
 }
 
+.titulo{
+    color: #fff;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px #000;
+}
+
+.bg{
+    background-color: #027373;
+}
 .layout{
-    margin: 150px 200px;
+
+}
+
+.footer{
+    background-color: #172026;
 }
