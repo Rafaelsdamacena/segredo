@@ -26,6 +26,19 @@
     margin-bottom: 80px;
 }
 
+textarea{
+    resize: none;
+    background-color: transparent;
+    border: none;
+}
+
+textarea::placeholder{
+    color: #fff;
+}
+
+.box1{
+}
+
 .footer{
     background-color: #172026;
 }
