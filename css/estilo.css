@@ -11,11 +11,19 @@
     text-shadow: 2px 2px 2px #000;
 }
 
-.bg{
+.layout{
     background-color: #027373;
 }
-.layout{
 
+.container{
+    padding: 50px 200px;
+}
+
+.instruction{
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+    margin-bottom: 80px;
 }
 
 .footer{
