@@ -13,6 +13,7 @@
 
 .layout{
     background-color: #027373;
+
 }
 
 .container{
@@ -26,6 +27,10 @@
     margin-bottom: 80px;
 }
 
+.box{
+    vertical-align: middle;
+}
+
 textarea{
     resize: none;
     background-color: transparent;
@@ -36,7 +41,32 @@ textarea::placeholder{
     color: #fff;
 }
 
-.box1{
+.button{
+    padding: 30px;
+    justify-content: center;
+}
+
+button {
+    font-size: 10px;
+    font-weight: 20px;
+    border-radius: 5px;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+
+#btn1{
+    background-color:#172026 ;
+    color: #fff;
+}
+
+#btn2{
+    background-color:#fff;
+    color: #172026;
+}
+
+#btn3{
+    background-color:#172026 ;
+    color: #fff;
 }
 
 .footer{
